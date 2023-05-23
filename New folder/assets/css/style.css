@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    position: absolute;
+    z-index: 1;
+    margin-top: 3px;
+   width: 100%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 20px;
+    font-size: 20px;
+    background-color:transparent;
+    height: 80px;
+    color: rgb(248, 248, 242);
+}
+a:hover{
+    color: brown;
+    text-decoration: none;
+  
+}
+.title{
+   position: relative;
+    height: 500px;
+}
+.list{
+    position: absolute;
+    z-index: 1;
+}
+.text{
+    position: absolute;
+    z-index: 1;  
+    margin-top: 250px;
+    margin-left: 400px;
+    align-items: center;
+    color: white;
+    padding: 40px;
+text-align: center;
+  
+}
+.text h1{
+    font-size: 50px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.text button{
+    border-radius: 1px;
+    
+}
+.text button:hover{
+background-color: brown;
+}
+.text button:hover{
+    color:white;
+}
+.text2 h1{
+    color:black;
+display: flex;
+justify-content: center;
+margin: 150px;
+}
+.text2 p{
+  text-align: center;  
+margin-top: -100px;
+
+}
+.circles{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 60px;
+    
+}
+.circle1{
+  background-color: transparent;
+width: 150px;
+height: 140px;
+border-radius: 50%;
+border: 2px solid red;
+}
+.circle1 i{
+display: flex;
+justify-content: center;
+margin: 30px;
+}
+.circle1:hover{
+    color:white;
+    background-color: red;
+}
+.circle2{
+    background-color: transparent;
+    width: 150px;
+    height: 140px;
+    border-radius: 50%;
+    border: 2px solid red;
+}
+.circle2 i{
+    display: flex;
+justify-content: center;
+margin: 30px;
+}
+.circle2:hover{
+    color:white;
+    background-color: red;
+}
+.circle3{
+    background-color: transparent;
+    width: 150px;
+    height: 140px;
+    border-radius: 50%;
+    border: 2px solid red;
+}
+.circle3 i{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.circle3:hover{
+        color:white;
+        background-color: red;
+    
+}
+.circle4{
+    background-color: transparent;
+    width: 150px;
+    height: 140px;
+    border-radius: 50%;
+    border: 2px solid red;
+}
+.circle4 i{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.circle4:hover{
+    color:white;
+    background-color: red;
+}
+.circle.word1 h5{
+    text-align: center;
+    
+    font-size: 10px;
+}
